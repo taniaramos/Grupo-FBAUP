@@ -70,7 +70,7 @@ ul {
   color: black;
   background: #cbcbcb;
   list-style-type: none;
-  margin: 0 3% 0 48%;
+  margin: 0 3% 0 55%;
   padding: 12px 17px 12px 17px;
   display: flex;
   align-content: flex-end;
@@ -144,22 +144,21 @@ a:hover {
   background-color: rgba(255, 255, 255, 0.84);
   line-height: 27px;
   white-space: pre;
-  padding: 3em 1.2% 9.5em 1%;
+  padding: 3.5em 1.2% 19% 1%;
+  margin: 3% 2% 0 0;
 }
 
 .media__body3 {
-  padding-top: 2.5em;
-  padding-bottom: 10em;
+  padding: 6% 1.2% 19% 1%;
 }
 
 .media__body4 {
-  padding-top: 1em;
-  padding-bottom: 11.5em;
+  padding-top: 4%;
+  padding-bottom: 21%;
 }
 
 .media__body5 {
-  padding-top: 3.5em;
-  padding-bottom: 9em;
+  padding: 9% 1.2% 16% 1%;
 }
 
 .media__body2:hover, .media__body3:hover, .media__body4:hover, .media__body5:hover {
@@ -181,12 +180,7 @@ a:hover {
   margin-top: 2%;
 }
 
-.link, .link2, .link3, .link4, .link5 {
-  padding: 4.4em 0 4.1em 0;
-  margin: -4.7em -2% 0 -4%;
-}
-
-.link2, .link3, .link4, .link5 {
+.link3, .link4, .link5 {
   padding: 5.5em 0 5.5em 0;
   margin-top: -5.7em;
 }
@@ -206,7 +200,7 @@ a:hover {
   margin-right: -3.5%;
 }
 
-/*PÁGINA EVENTOS E EVENTOS ANTERIORES*/
+/*PÁGINA EVENTOS*/
 .cinanima img {
   width: 29%;
   float: right;
@@ -246,7 +240,7 @@ a:hover {
 
 /*FBAUP*/
 .fbaup img {
-  margin-left: 51%;
+  margin-left: 60%;
   margin-top: 4%;
   width: 130%;
 }
@@ -265,7 +259,7 @@ a:hover {
 }
 
 .up h2 {
-  margin-top: -24%;
+  margin-top: -20%;
   margin-left: 16%;
 }
 
@@ -338,7 +332,7 @@ a:hover {
   margin-left: -2%;
 }
 
-/*GALERIA DE PORTEFOLIOS E EVENTOS ANTERIORES*/
+/*GALERIA DE PORTEFOLIOS*/
 .porte {
   font: 19px "Roboto", sans-serif;
   font-weight: bold;
@@ -347,7 +341,7 @@ a:hover {
   background-color: #cbcbcb;
   padding: 1%;
   text-transform: uppercase;
-  margin-right: 75.6%;
+  margin-right: 77.5%;
   margin-top: 4%;
 }
 
@@ -381,6 +375,7 @@ img {
   left: 0;
   transition: 0.6s;
   background-color: rgba(255, 255, 255, 0.84);
+  padding: 8.5% 0 1.7% 0;
 }
 
 .media__body:hover {
@@ -408,7 +403,7 @@ img {
 
 /*EVENTOS ANTERIORES*/
 .porte2 {
-  margin-right: 67.32%;
+  margin-right: 70.5%;
 }
 
 /*CURSOS*/
@@ -420,7 +415,7 @@ h1 {
   background-color: #cbcbcb;
   padding: 1%;
   text-transform: uppercase;
-  margin-right: 80.7%;
+  margin-right: 82%;
   margin-top: 4%;
 }
 
@@ -428,7 +423,7 @@ h1 {
   width: 100%;
   position: absolute;
   z-index: 120;
-  margin-top: 0;
+  margin-top: 0.9%;
 }
 
 .navpag a {
@@ -441,7 +436,7 @@ h1 {
   list-style-type: none;
   position: relative;
   z-index: 150;
-  margin: 27.8em 0 0 0;
+  margin: 34em 0 0 0;
   padding: 0.8% 3em 0.8% 3em;
 }
 
@@ -491,15 +486,15 @@ h4 {
 }
 
 .nomeslicen h4 {
-  margin: 17.5em 0 0 5.5%;
+  margin: 16.5% 0 0 5.5%;
 }
 
 .nomeslicen2 h4 {
-  margin: 17.5em 0 0 34.5%;
+  margin: 16.5% 0 0 34.5%;
 }
 
 .nomeslicen3 h4 {
-  margin: 16.5em 12.5% 0 63.5%;
+  margin: 15.7% 13% 0 63.5%;
 }
 
 .coluna1, .coluna2, .coluna3m, .coluna1m, .coluna2m, .coluna3m2, .coluna1m2, .coluna2m2, .coluna3m3, .coluna1m3, .coluna2m3, .coluna3m4 {
@@ -511,45 +506,39 @@ h4 {
   hyphens: auto;
   float: left;
   position: absolute;
-  margin: 21em 60em 1em 3.5em;
+  margin: 24% 70.5% 1em 3.5em;
 }
 
 .coluna2 {
-  margin: 24.6% 41.5% 0 33.5%;
+  margin: 24% 41.5% 0 32.5%;
 }
 
 .coluna3m {
-  margin: 21em 10.5em 1em 52.5em;
-}
-
-.maislicen {
-  width: 1.5%;
-  margin-left: 27.5%;
-  margin-top: 18.5em;
+  margin: 24% 12.5% 0 61.7%;
 }
 
 .nomesmest h4 {
-  margin: 20em 0 0 5.5%;
+  margin: 18.5% 0 0 5.5%;
 }
 
 .nomesmest2 h4 {
-  margin: 20em 40em 0 34.5%;
+  margin: 18.5% 40em 0 34.5%;
 }
 
 .nomesmest3 h4 {
-  margin: 20em 0 0 67.5em;
+  margin: 18.5% 0 0 63%;
 }
 
 .coluna1m, .coluna1m2, .coluna1m3 {
-  margin: 23em 60em 1em 3.5em;
+  margin: 25% 70% 1em 4%;
 }
 
 .coluna2m, .coluna2m2, .coluna2m3 {
-  margin: 23em 41.5% 0 33%;
+  margin: 25% 41.5% 0 33%;
 }
 
 .coluna3m2, .coluna3m3, .coluna3m4 {
-  margin: 23em 12.5% 0 62%;
+  margin: 25% 12.5% 0 62%;
 }
 
 .maislicen, .maislicen2, .maislicen3 {
@@ -569,15 +558,15 @@ h4 {
 }
 
 .nomesmest4 h4 {
-  margin: -2em 0 0 5.45%;
+  margin: -1.8% 0 0 5.45%;
 }
 
 .nomesmest5 h4, .nomesmest8 h4 {
-  margin: -2em 0 0 34.5%;
+  margin: -1.8% 0 0 34.5%;
 }
 
 .nomesmest6 h4 {
-  margin: -2em 0 0 63.5%;
+  margin: -1.8% 0 0 63.5%;
 }
 
 .coluna1m2, .coluna2m2, .coluna3m3 {
@@ -585,7 +574,7 @@ h4 {
 }
 
 .nomesmest7 h4 {
-  margin: -4em 44em 0 34.5%;
+  margin: -4em 41.2% 0 34.5%;
 }
 
 .coluna1m3, .coluna2m3, .coluna3m4 {
@@ -629,12 +618,12 @@ h4 {
   -moz-background-clip: border;
   -moz-background-origin: padding;
   -moz-background-inline-policy: continuous;
-  left: 74em;
+  left: 93%;
 }
 
 /*INVESTIGAÇÃO*/
 .porte3 {
-  margin-right: 74.4%;
+  margin-right: 76.5%;
 }
 
 .investigação, .investigação1 {
@@ -644,7 +633,7 @@ h4 {
 .porte4 {
   margin-top: -2.2%;
   position: absolute;
-  margin-right: 67.3%;
+  margin-right: 66%;
 }
 
 .inv1 {
@@ -669,7 +658,7 @@ h4 {
 /*CONTACTOS*/
 .fbaup {
   margin: 4% 0 0 3%;
-  width: 580px;
+  width: 45%;
 }
 
 .contactos, .horarios {
@@ -681,7 +670,7 @@ h4 {
   padding: 1%;
   text-transform: uppercase;
   margin-left: 43%;
-  margin-top: -19em;
+  margin-top: -22em;
   position: absolute;
 }
 
@@ -694,28 +683,28 @@ h4 {
   font-size: 15px;
   line-height: 21px;
   text-align: left;
-  margin-top: -17em;
+  margin-top: -20em;
 }
 
 #map {
-  height: 400px;
-  width: 579px;
+  height: 467px;
+  width: 676px;
   margin: 3.5% 0 0 3%;
 }
 
 .horarios {
-  margin-top: 2.5em;
+  margin-top: 3em;
 }
 
 .infohorarios {
-  margin-top: 11em;
+  margin-top: 12em;
 }
 
 /*RODAPÉ*/
 .footnote, .footnote2, .footnote3 {
   background-color: #cbcbcb;
   margin: 8em 0 -2% 0;
-  height: 6em;
+  height: 5em;
 }
 
 .footnote2 {
@@ -727,18 +716,20 @@ h4 {
 }
 
 img.logofooter {
-  width: 4%;
+  width: 3%;
   float: left;
   padding: 1.7%;
+  padding-top: 1%;
   margin-left: 1%;
   margin-right: 1%;
+  padding-bottom: 0;
 }
 
 .footer {
   font: 13px "Roboto", sans-serif;
   text-transform: uppercase;
   color: white;
-  padding-top: 2%;
+  padding-top: 1.2%;
   position: absolute;
   margin-left: 20%;
 }
@@ -747,7 +738,7 @@ img.logofooter {
   font: 13px "Roboto", sans-serif;
   text-transform: uppercase;
   color: white;
-  padding-top: 2%;
+  padding-top: 1.2%;
   float: left;
   white-space: pre;
 }
@@ -771,4 +762,786 @@ span {
 
 .footer2:hover {
   text-decoration: underline;
+}
+
+/*MEDIA QUERIES*/
+@media screen and (min-width: 320px) and (max-width: 1023px) {
+  /*HEADER*/
+  .logooriginal {
+    width: 15%;
+    border-width: 1px;
+  }
+  ul {
+    font-size: 6px;
+    letter-spacing: 1px;
+    margin: 5% 3% 0 25%;
+    padding: 4px 7px 4px 7px;
+  }
+  /*INDEX*/
+  .eventosnome {
+    letter-spacing: 0.2vh;
+    font-size: 8.5px;
+  }
+  .eventos {
+    margin-top: 1.5em;
+  }
+  .media__body2, .media__body3, .media__body4, .media__body5 {
+    font-size: 7px;
+    line-height: 11px;
+    padding: 0 0 25.5% 0;
+    margin-right: 1%;
+  }
+  .media__body3 {
+    margin-right: 4%;
+  }
+  .media__body4 {
+    padding: 3% 0 22% 0;
+    margin-right: 4%;
+  }
+  .media__body5 {
+    padding: 9% 0 16% 0;
+    margin-right: 5.5%;
+  }
+  .linkeventos {
+    font-size: 8.5px;
+    letter-spacing: 0.2vh;
+    margin-top: 4%;
+  }
+  .link3, .link4, .link5 {
+    padding: 0;
+    margin: 0;
+  }
+  .link3, .link5 {
+    padding-top: 5.5em;
+    margin-top: -5em;
+  }
+  .link4 {
+    padding-top: 0.5em;
+    margin-top: -3.2em;
+  }
+  .link5 {
+    padding-top: 5.3em;
+    margin-right: -3.5%;
+  }
+  /*PÁGINA EVENTOS*/
+  .cinanima img {
+    width: 35%;
+    margin-right: 12%;
+  }
+  .cinanima h1 {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+    line-height: 12px;
+    margin-right: 0;
+  }
+  .cinanima p {
+    font-size: 8px;
+    line-height: 12px;
+    padding-top: 30%;
+  }
+  .cinanimatexto {
+    font-size: 10px;
+    line-height: 15px;
+    margin-right: 10%;
+  }
+  /*FBAUP*/
+  .fbaup img {
+    margin-left: 54%;
+    width: 130%;
+  }
+  .fbaup h2, .up h2 {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+    margin-top: 5%;
+  }
+  .up h2 {
+    margin-top: -20%;
+  }
+  .infaculdade p {
+    font-size: 10px;
+    line-height: 12px;
+    margin: 3% 20% 2% 24%;
+  }
+  .mais3 {
+    width: 3.5%;
+    margin-left: 75%;
+  }
+  .serviços h2 {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+  }
+  .serviços h3 {
+    font-size: 7px;
+    letter-spacing: 0.2vh;
+  }
+  .gestão {
+    padding-top: 18%;
+  }
+  .linkportefolios {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+  }
+  /*GALERIA DE PORTEFOLIOS*/
+  .porte {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+    margin-right: 70%;
+  }
+  .galeria {
+    margin-left: 1%;
+  }
+  .media__body {
+    font-size: 6px;
+    line-height: 9px;
+    padding: 8.5% 1% 0 0;
+  }
+  .link {
+    margin-top: -6.7em;
+  }
+  .link2 {
+    padding-top: 4em;
+  }
+  /*EVENTOS ANTERIORES*/
+  .porte2 {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+    margin-right: 59.5%;
+  }
+  /*CURSOS*/
+  h1 {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+    margin-right: 77.5%;
+  }
+  .navpag ul {
+    margin: 32% 0 0 0;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+  }
+  .navpag li {
+    font-size: 5px;
+    letter-spacing: 1px;
+    padding: 0;
+  }
+  h3 {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+  }
+  h4 {
+    font-size: 5px;
+    letter-spacing: 0.1vh;
+    line-height: 8pt;
+  }
+  .nomeslicen h4 {
+    margin-top: 15.5%;
+  }
+  .nomeslicen2 h4 {
+    line-height: 7px;
+    margin: 15% 47% 0 35.5%;
+  }
+  .nomeslicen3 h4 {
+    margin: 13% 20% 0 65%;
+    line-height: 7px;
+  }
+  .coluna1, .coluna2, .coluna3m, .coluna1m, .coluna2m, .coluna3m2, .coluna1m2, .coluna2m2, .coluna3m3, .coluna1m3, .coluna2m3, .coluna3m4 {
+    font-size: 5px;
+    line-height: 6.5px;
+    margin: 26% 71% 0 4%;
+  }
+  .coluna2 {
+    margin: 26% 40% 0 33.5%;
+  }
+  .coluna3m {
+    margin: 26% 11% 1em 63.5%;
+  }
+  .nomesmest h4 {
+    line-height: 7px;
+    margin: 18% 70.3% 0 5.5%;
+  }
+  .nomesmest2 h4 {
+    line-height: 7px;
+    margin: 18% 12.5% 0 65.5%;
+  }
+  .nomesmest3 h4 {
+    margin: 18% 0 0 35.5%;
+  }
+  .coluna1m, .coluna1m2, .coluna1m3 {
+    margin: 27% 71% 1em 4%;
+  }
+  .coluna2m, .coluna2m2, .coluna2m3 {
+    margin: 27% 40% 0 33.5%;
+  }
+  .coluna3m2, .coluna3m3, .coluna3m4 {
+    margin: 27% 12% 0 63%;
+  }
+  .maislicen, .maislicen2, .maislicen3 {
+    margin-top: 7em;
+  }
+  .nomesmest4 h4 {
+    line-height: 7px;
+    margin-right: 70.3%;
+    margin-top: -3.5%;
+  }
+  .nomesmest5 h4, .nomesmest8 h4 {
+    line-height: 7px;
+    margin: -3.5% 40.3% 0 35.5%;
+  }
+  .nomesmest6 h4 {
+    margin: -3.5% 10.5% 0 65.5%;
+  }
+  .coluna1m2, .coluna2m2, .coluna3m3 {
+    margin-top: 5.5em;
+  }
+  .nomesmest7 h4 {
+    line-height: 7px;
+    margin: -4.5% 40.5% 0 35.5%;
+  }
+  .coluna1m3, .coluna2m3, .coluna3m4 {
+    margin-top: 7em;
+  }
+  .nomesmest8 h4 {
+    margin-left: 34.35%;
+  }
+  .maislicen2, .maislicen3 {
+    margin-top: 8em;
+  }
+  .canto {
+    top: 10em;
+    width: 40px;
+    left: 93.7%;
+  }
+  /*INVESTIGAÇÃO*/
+  .porte3 {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+    margin-right: 65.5%;
+  }
+  .porte4 {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+    margin-top: -3.2%;
+    margin-right: 50%;
+  }
+  .inv1 {
+    font-size: 10px;
+    line-height: 12px;
+    margin-right: 18%;
+  }
+  .mais {
+    width: 3.5%;
+    margin-left: 78%;
+  }
+  /*CONTACTOS*/
+  .fbaup {
+    width: 45%;
+  }
+  .contactos, .horarios {
+    font-size: 8px;
+    letter-spacing: 0.2vh;
+    margin-top: -13em;
+  }
+  .infocontactos, .infohorarios {
+    font-size: 8px;
+    line-height: 12px;
+    margin-top: -8em;
+  }
+  #map {
+    height: 117px;
+    width: 170px;
+  }
+  .horarios {
+    margin-top: 5%;
+  }
+  .infohorarios {
+    margin-top: 7.5em;
+  }
+  /*RODAPÉ*/
+  .footnote, .footnote2, .footnote3 {
+    height: 2.5em;
+  }
+  .footnote3 {
+    margin-top: 35em;
+  }
+  img.logofooter {
+    margin-top: 1%;
+    width: 6%;
+  }
+  .footer {
+    margin-top: 1%;
+    font-size: 6px;
+    margin-left: 30%;
+  }
+  .footer1 {
+    margin-top: 1%;
+    font-size: 6px;
+    margin-bottom: 0;
+  }
+  span {
+    font-size: 6px;
+    line-height: 20px;
+  }
+}
+
+@media screen and (min-width: 414px) and (max-width: 735px) {
+  /*HEADER*/
+  .logooriginal {
+    border-width: 2px;
+  }
+  ul {
+    margin-left: 36.5%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+  /*INDEX*/
+  .media__body2, .media__body3, .media__body4, .media__body5 {
+    padding-bottom: 26%;
+    padding-top: 9.5%;
+    margin-right: 1.5%;
+  }
+  .media__body3 {
+    padding-top: 2%;
+  }
+  .media__body4 {
+    padding-top: 2%;
+  }
+  .link3, .link5 {
+    margin-top: -55%;
+  }
+  .link4 {
+    margin-top: -1.5em;
+  }
+  /*FBAUP*/
+  .mais3 {
+    width: 3%;
+  }
+  .gestão {
+    padding-top: 15%;
+  }
+  /*GALERIA DE PORTEFOLIOS*/
+  .porte {
+    margin-right: 74%;
+  }
+  .media__body {
+    padding-top: 7%;
+    padding-bottom: 1%;
+  }
+  .link {
+    margin-top: -5em;
+  }
+  .link2 {
+    padding-top: 40%;
+  }
+  /*EVENTOS ANTERIORES*/
+  .porte2 {
+    margin-right: 64.5%;
+  }
+  /*CURSOS*/
+  h1 {
+    margin-right: 79.5%;
+  }
+  .navpag li {
+    font-size: 6px;
+  }
+  .nomeslicen3 h4 {
+    margin: 15% 11.5% 0 64%;
+  }
+  .maislicen, .maislicen2, .maislicen3 {
+    margin-top: 6em;
+  }
+  .nomesmest4 h4 {
+    margin-top: -2.5%;
+  }
+  .nomesmest7 h4 {
+    margin-right: 40.5%;
+  }
+  .canto {
+    top: 35.5%;
+  }
+  /*INVESTIGAÇÃO*/
+  .porte3 {
+    margin-right: 73%;
+  }
+  /*CONTACTOS*/
+  .contactos, .horarios {
+    margin-top: -15em;
+  }
+  .horarios {
+    margin-top: 5%;
+  }
+  .infocontactos, .infohorarios {
+    margin-top: -10em;
+  }
+  #map {
+    height: 151px;
+    width: 218px;
+  }
+  .infohorarios {
+    margin-top: 7em;
+  }
+  /*RODAPÉ*/
+  img.logofooter {
+    width: 4%;
+  }
+}
+
+@media screen and (min-width: 736px) and (max-width: 1023px) {
+  /*HEADER*/
+  ul {
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-left: 45%;
+  }
+  /*INDEX*/
+  .eventosnome {
+    letter-spacing: 0.4vh;
+    font-size: 12px;
+  }
+  .media__body2, .media__body3, .media__body4, .media__body5 {
+    font-size: 12px;
+    line-height: 15px;
+    padding-top: 6%;
+    margin-right: 2.5%;
+  }
+  .media__body3 {
+    padding-top: 3%;
+  }
+  .media__body4 {
+    padding-top: 8%;
+    padding-bottom: 17.5%;
+  }
+  .media__body5 {
+    padding-bottom: 17%;
+    padding-top: 8.5%;
+    margin-right: 0;
+  }
+  .linkeventos {
+    font-size: 12px;
+    letter-spacing: 0.25vh;
+  }
+  /*PÁGINA EVENTOS*/
+  .cinanima img {
+    margin-right: 25%;
+  }
+  .cinanima h1 {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+  }
+  .cinanima p {
+    font-size: 10px;
+    line-height: 14px;
+  }
+  .cinanimatexto {
+    margin-top: 6%;
+    margin-right: 24%;
+  }
+  /*FBAUP*/
+  .fbaup h2, .up h2 {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+  }
+  .infaculdade p {
+    line-height: 13px;
+    margin-right: 29%;
+    margin-left: 25%;
+  }
+  .mais3 {
+    width: 2%;
+    margin-left: 70%;
+  }
+  .serviços h2 {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+  }
+  .serviços h3 {
+    font-size: 9px;
+    letter-spacing: 0.3vh;
+  }
+  .gestão {
+    padding-top: 12%;
+  }
+  .linkportefolios {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+  }
+  /*GALERIA DE PORTEFOLIOS*/
+  .porte {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+    margin-right: 78.5%;
+  }
+  .media__body {
+    font-size: 9px;
+    line-height: 15px;
+  }
+  .link {
+    margin-top: -30%;
+  }
+  .link2 {
+    padding-top: 37%;
+  }
+  /*EVENTOS ANTERIORES*/
+  .porte2 {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+  }
+  /*CURSOS*/
+  h1 {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+    margin-right: 82%;
+  }
+  .navpag li {
+    font-size: 9px;
+    letter-spacing: 2px;
+  }
+  h3 {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+  }
+  h4 {
+    font-size: 7px;
+    letter-spacing: 0.1vh;
+  }
+  .nomeslicen h4 {
+    margin-top: 16.3%;
+  }
+  .nomeslicen2 h4 {
+    margin-top: 16.7%;
+    margin-left: 34.5%;
+  }
+  .nomeslicen3 h4 {
+    line-height: 11px;
+    margin: 15.8% 12% 0 64%;
+  }
+  .coluna1, .coluna2, .coluna3m, .coluna1m, .coluna2m, .coluna3m2, .coluna1m2, .coluna2m2, .coluna3m3, .coluna1m3, .coluna2m3, .coluna3m4 {
+    font-size: 7px;
+    line-height: 9px;
+    margin-top: 24%;
+  }
+  .coluna2 {
+    margin-right: 42%;
+  }
+  .coluna3m {
+    margin-left: 62%;
+    margin-right: 12%;
+  }
+  .nomesmest h4 {
+    margin-top: 19%;
+  }
+  .nomesmest2 h4 {
+    line-height: 9px;
+    margin-top: 18.7%;
+    margin-left: 63.5%;
+  }
+  .nomesmest3 h4 {
+    margin-top: 18.7%;
+    margin-left: 34.5%;
+  }
+  .coluna1m, .coluna1m2, .coluna1m3 {
+    margin-top: 25%;
+  }
+  .coluna2m, .coluna2m2, .coluna2m3 {
+    margin-top: 25%;
+    margin-right: 41.5%;
+  }
+  .coluna3m2, .coluna3m3, .coluna3m4 {
+    margin-top: 25%;
+    margin-left: 62%;
+  }
+  .coluna1m2, .coluna2m2, .coluna3m3, .coluna1m3, .coluna2m3, .coluna3m4 {
+    margin-top: 4%;
+  }
+  .nomesmest4 h4, .nomesmest8 h4 {
+    margin-top: -2%;
+  }
+  .nomesmest5 h4 {
+    margin-top: -2%;
+    margin-left: 35%;
+  }
+  .nomesmest6 h4 {
+    margin-top: -2%;
+    margin-left: 64%;
+  }
+  .nomesmest7 h4 {
+    line-height: 9px;
+    margin-top: -2.2%;
+    margin-right: 41%;
+  }
+  .canto {
+    top: 20em;
+    width: 70px;
+  }
+  /*INVESTIGAÇÃO*/
+  .porte3 {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+    margin-right: 78%;
+  }
+  .porte4 {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+    margin-top: -2%;
+  }
+  .inv1 {
+    margin-right: 40%;
+  }
+  .mais {
+    width: 1.5%;
+    margin-left: 60%;
+  }
+  /*CONTACTOS*/
+  .contactos, .horarios {
+    font-size: 10px;
+    letter-spacing: 0.3vh;
+    margin-top: -27%;
+  }
+  .infocontactos, .infohorarios {
+    font-size: 9px;
+    line-height: 13px;
+    margin-top: -19%;
+  }
+  #map {
+    height: 269px;
+    width: 390px;
+  }
+  .horarios {
+    margin-top: 4%;
+  }
+  .infohorarios {
+    margin-top: 13%;
+  }
+  /*RODAPÉ*/
+  .footnote, .footnote2, .footnote3 {
+    height: 3.8em;
+  }
+  img.logofooter {
+    width: 3%;
+  }
+  .footer {
+    font-size: 8px;
+    margin-left: 18%;
+  }
+  .footer1 {
+    font-size: 8px;
+  }
+  span {
+    font-size: 7px;
+    line-height: 27px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1365px) {
+  /*HEADER*/
+  ul {
+    margin-left: 40%;
+  }
+  /*INDEX*/
+  .media__body2, .media__body3, .media__body4, .media__body5 {
+    padding-top: 3%;
+    padding-bottom: 22%;
+    margin-top: 2%;
+    margin-right: 0;
+  }
+  .media__body3 {
+    padding-top: 4%;
+    padding-bottom: 21%;
+  }
+  .media__body4 {
+    padding-top: 3%;
+    padding-bottom: 22%;
+  }
+  .media__body5 {
+    padding-top: 15%;
+    padding-bottom: 10%;
+  }
+  .link3, .link5 {
+    padding-top: 6.2em;
+  }
+  .link4 {
+    padding-top: 2.5em;
+  }
+  .link5 {
+    padding-top: 6em;
+  }
+  /*FBAUP*/
+  .infaculdade p {
+    margin-left: 26%;
+  }
+  /*GALERIA DE PORTEFOLIOS*/
+  .porte {
+    margin-right: 74.5%;
+  }
+  .media__body {
+    font-size: 13px;
+    padding-top: 9%;
+    padding-bottom: 9.2%;
+    bottom: 0;
+  }
+  .link2 {
+    padding-top: 25%;
+  }
+  /*GALERIA DE EVENTOS ANTERIORES*/
+  .porte2 {
+    margin-right: 65.5%;
+  }
+  /*CURSOS*/
+  h1 {
+    margin-right: 80%;
+  }
+  .navpag ul {
+    margin-top: 32%;
+  }
+  .nomeslicen3 h4 {
+    margin-top: 14.5%;
+    margin-right: 12.5%;
+  }
+  .nomesmest h4 {
+    margin-top: 17.5%;
+    margin-right: 70.2%;
+  }
+  .nomesmest4 h4 {
+    margin-top: -2.5%;
+    margin-right: 70.2%;
+  }
+  .nomesmest8 h4 {
+    margin-right: 41%;
+    margin-top: -2.5%;
+  }
+  /*INVESTIGAÇÃO*/
+  .porte3 {
+    margin-right: 73.5%;
+  }
+  .porte4 {
+    margin-right: 60%;
+  }
+  /*CONTACTOS*/
+  .contactos, .horarios {
+    margin-top: -17em;
+  }
+  .infocontactos, .infohorarios {
+    margin-top: -15em;
+  }
+  #map {
+    height: 373px;
+    width: 540px;
+  }
+  .horarios {
+    margin-top: 3.5%;
+  }
+  .infohorarios {
+    margin-top: 13%;
+  }
+  /*RODAPÉ*/
+  img.logofooter {
+    width: 3.5%;
+    margin-top: 0.5%;
+  }
+  .footer {
+    margin-top: 0.5%;
+  }
+  .footer1 {
+    margin-top: 0.5%;
+  }
 }

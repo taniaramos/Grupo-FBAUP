@@ -423,7 +423,7 @@ h1 {
   width: 100%;
   position: absolute;
   z-index: 120;
-  margin-top: 0.9%;
+  margin-top: 0%;
 }
 
 .navpag a {
@@ -436,7 +436,7 @@ h1 {
   list-style-type: none;
   position: relative;
   z-index: 150;
-  margin: 34em 0 0 0;
+  margin: 32.5em 0 0 0;
   padding: 0.8% 3em 0.8% 3em;
 }
 
